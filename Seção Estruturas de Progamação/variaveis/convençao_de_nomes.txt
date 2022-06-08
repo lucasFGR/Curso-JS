@@ -1,0 +1,7 @@
+1 - Nao pode começar com numero ( let 2teste)
+2 - Mas pode terminar com numero (let teste9 = 'testando')
+3 - Pode ter $ ou _, mas não outros caractres especiais (let $nome, _nome)
+4 - Mas não pode ter pontuação ou outros especiais (let @teste)
+5 - podmeos iniciar com letra maiscula (let nome = 'Lucas')
+6 - ou usar camelCase ( le meuPrimeiroNome = 'Lucas')
+
