@@ -1,0 +1,31 @@
+O que é um programa/software
+- é um conjunto de declarações
+- Statements são conjunto de expressões
+- Expressions é todo fragmento de código que produz um valor
+
+Todo softwware tem um objetivo
+Os Statements guiam o software para o seu objetivo
+As expressions são valores que os Statements esperam para guiar o software
+
+Exemplo de um Statements:
+    console.log(1 > 2)
+
+Exemplo de uma Expression:
+    console.log('batata')
+
+
+-----------------------------------
+
+Como salvar dados na memória
+
+- Salvamos os valores em variavéis (Isso é um statement)
+        - let Laranjas = 5;
+    e depois podemos criar expressoes com os valores:
+        - Console.log(laranas * laranas)
+    também podemos mudar o valor de uma variavel durante a excuçao do nosso software
+    podemos declarar variaveis de uma vez só:
+        - let quadrado = 4, triangulo = 3, retangulo = 4
+    e depois realizar operações com essas variaveis:
+    console.log( quadrado * (triangulo + triangulo) )
+
+    
