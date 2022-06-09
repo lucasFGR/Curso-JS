@@ -1,0 +1,14 @@
+Funcoes são estruturas de códigos menos que são reaporveitadas
+durante a execução/ construcao de um programa
+
+tem como principal objtivo poupar a repetição de códigos
+podem ser considerados como um subprogama
+
+
+## Definindo uma funcao
+
+1 - Uma founcao tem uma strutura tem um pouco mais complexa
+2 - Devemos declarar a funcao sempre com a palavra function
+3 - pode conter argumentos/parametros, definidos entre ()
+4 - O corpo da funcao é definido entrre {}
+5 - Geralmente uma funcao retorna um valor
