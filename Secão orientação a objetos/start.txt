@@ -1,0 +1,4 @@
+O que  é orientaçao a objetos
+- Uma forma de programar, que utilizada os objetos como o seu principal principio
+- A maioria de softwares, na parte de back-end, são desenvolvidos em cima desse paradigma
+- Grandas framworks se aproveitam desta técnica: Laravel
