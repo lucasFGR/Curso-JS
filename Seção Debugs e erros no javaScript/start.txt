@@ -1,0 +1,14 @@
+Bug = Problema que ocorre no código, muitas vezes por erro do programador, que impde
+      o funcionamento correto do sistema.
+
+Debug = O ato de resolver os bugs encontrador no código ou também  a forma que é feita 
+a visualização de variáveis ou fluxo no código
+
+
+------------------------------------------------------------------
+
+Strict mode
+
+Deixa o js mais rigoroso na hora de programador
+Deve ser colocado no topo de arquivos ou funcoes
+Ajuda a codificar de forma correta e nao impedir ou limitar nada do seu software ou programador
