@@ -1,0 +1,9 @@
+O que é
+
+É uam forma de encontrar padroes em uma string
+por exemplo: validar se só tem numeros
+
+ao invés de criar funções complexas podemos encontrar dados
+em texto por meio das expressões regulares
+
+também chamas de Regex
