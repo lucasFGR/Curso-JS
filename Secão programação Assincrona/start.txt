@@ -1,0 +1,10 @@
+O que é programação Assincrona ?
+
+1 - Até agora  programamos de uma maneira que uma ação acontecia apos a outra
+2 - A programação Assincrona trabalha nesta questão, ações podem ser executadas
+    ao tempo todo, sem uma fila
+
+    Exemplo:
+        Usuário está no checkout, manda salvar seu endereço na conta
+        mas pode prosseguir para a finalização sem recarregadr
+        a página, pois adiconar o endereço ocorre de forma assíncrona
