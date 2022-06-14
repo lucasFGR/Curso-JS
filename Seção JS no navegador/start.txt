@@ -1,0 +1,40 @@
+Protocolos
+ - é um forma de comunicação entre computadores através da rede
+ - O HTTP, serve para nós solicitarmos arquivos, imagens e etc(Hyper Text Transfer Protocol)
+ - Entramos em sistes grças ao protocolo HTTP
+
+ Outros exemplos de protocolos:
+    SMTP: Protocolo para enviar e-mail
+    TCP = Protocolo de transferencia
+
+
+URL
+
+ - Cada arquivo que carrga no navegador é nomeado por uma URL
+ - A URL(Uniform Resource Locator) pode ser divida em tres partes
+    protocolo, servidor e arquivo.
+
+    htttp://www.horadecordar.com.br/index.html
+        http = Protocolo
+        www.horadecordar.com.br = servidor (DNS para um IP)
+        index.html = arquivo
+
+
+HTML
+    - HTML (HyperText Markup Language) é uma 
+    - Responsável pelos textos e elementos que vemos na tela
+    ao acessar uma página Web
+    - As  tags do HTML criam titulos, paragrafos, imagens,listas e etc
+    - Uma tag é definida por <p></p>
+    obs: Algumas tags não possuem fechamento
+
+    - Todo HTML tem sempre duas partes importantes: Head e Body
+
+    Head
+        serve para configurações do documento, como links de folha de estilo
+        ou até scripts de javaScript
+        
+        tags de configuração ex: meta,link
+    Body
+        serve para os elementos tag,ou seja a parte visual
+        tags do Body : p,h1,div,ul,li
